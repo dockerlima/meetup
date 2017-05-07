@@ -97,6 +97,9 @@ canal con todas las sesiones de Docker.
 
 - Publicitar el repositorio, twitter, facebook, slack, etc. de *Docker Lima*.
 
+- Brindar unos minutos ~15min para que los asistentes socializen, ofrezcan o
+pidan oportunidades laborales, o alguna otra cosa que se les venga a la mente.
+
 ## Post Evento
 
 - Publicar el material del evento en los diferentes canales.
